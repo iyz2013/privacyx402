@@ -23,27 +23,6 @@
 Break on-chain links between payers and recipients using Privacy Cash protocol.
 
 ---
-
-</div>
-
-## Architecture
-
-```mermaid
-graph TD
-    A[User Payment] --> B[Privacy Cash SDK]
-    B --> C[Deposit to Privacy Pool]
-    C --> D[Generate ZK Proof]
-    D --> E[Withdraw to Treasury]
-    E --> F[Payment Complete]
-    
-    C -.-> G[Visible on-chain]
-    E -.-> H[Private - No Link]
-    
-    style C fill:#ff9999
-    style E fill:#99ff99
-    style D fill:#9999ff
-```
-
 ## Privacy Flow
 
 ```mermaid
