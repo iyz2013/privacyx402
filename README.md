@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[./assets/banner.jpeg](https://pbs.twimg.com/profile_banners/1985065261121388546/1762122186/1500x500)" alt="Privacy Cash 402 SDK" width="100%" />
+<img src="[(https://pbs.twimg.com/profile_banners/1985065261121388546/1762122186/1500x500)" alt="Privacy Cash 402 SDK" width="100%" />
 
 # Privacy Cash 402 SDK
 
