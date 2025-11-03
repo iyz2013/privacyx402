@@ -1,6 +1,30 @@
-# Privacy Cash 402 Payment SDK
+<div align="center">
 
-Zero-knowledge privacy for 402 payments on Solana. Break on-chain links between payers and recipients using Privacy Cash.
+<img src="./assets/banner.jpeg" alt="Privacy Cash 402 SDK" width="100%" />
+
+# Privacy Cash 402 SDK
+
+### Zero-Knowledge Privacy for 402 Payments on Solana
+
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/toursoflife/privacy402)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+[![Solana](https://img.shields.io/badge/solana-mainnet-purple.svg)](https://solana.com)
+[![Privacy Cash](https://img.shields.io/badge/privacy--cash-1.0.13-orange.svg)](https://github.com/Privacy-Cash)
+[![TypeScript](https://img.shields.io/badge/typescript-5.0+-blue.svg)](https://www.typescriptlang.org)
+[![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org)
+
+[![npm](https://img.shields.io/badge/npm-install-red.svg)](https://www.npmjs.com)
+[![Build](https://img.shields.io/badge/build-passing-success.svg)]()
+[![Audited](https://img.shields.io/badge/audited-zigtur-blueviolet.svg)]()
+[![ZK Proofs](https://img.shields.io/badge/zk--proofs-groth16-9cf.svg)]()
+
+[Documentation](#installation) • [Quick Start](#quick-start) • [Examples](./examples) • [API Reference](#api-reference)
+
+Break on-chain links between payers and recipients using Privacy Cash protocol.
+
+---
+
+</div>
 
 ## Architecture
 
@@ -386,23 +410,24 @@ Contributions welcome. Submit issues and pull requests on GitHub.
 
 MIT License - see LICENSE file
 
-## Resources
-
-| Resource | Link |
-|----------|------|
-| Privacy Cash GitHub | https://github.com/Privacy-Cash |
-| Privacy Cash SDK | https://github.com/Privacy-Cash/privacy-cash-sdk |
-| Solana Docs | https://docs.solana.com |
-| Zero-Knowledge Proofs | https://zkp.science |
-
-## Support
-
-For issues and questions:
-- GitHub Issues
-- Privacy Cash Discord
-- Documentation
-
 ---
 
-Built with Privacy Cash SDK v1.0.13 on Solana
+<div align="center">
+
+### Built with Privacy Cash SDK v1.0.13 on Solana
+
+[![Privacy Cash](https://img.shields.io/badge/Privacy_Cash-Protocol-ff6b35.svg)](https://github.com/Privacy-Cash)
+[![Solana](https://img.shields.io/badge/Solana-Blockchain-14F195.svg)](https://solana.com)
+[![ZK-SNARKs](https://img.shields.io/badge/ZK--SNARKs-Groth16-7C3AED.svg)]()
+
+**Resources**
+
+[Privacy Cash GitHub](https://github.com/Privacy-Cash) • 
+[Privacy Cash SDK](https://github.com/Privacy-Cash/privacy-cash-sdk) • 
+[Solana Docs](https://docs.solana.com) • 
+[ZK Proofs](https://zkp.science)
+
+**Support:** [GitHub Issues](https://github.com/toursoflife/privacy402/issues) • [Discussions](https://github.com/toursoflife/privacy402/discussions)
+
+</div>
 
