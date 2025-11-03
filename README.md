@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[(https://pbs.twimg.com/profile_banners/1985065261121388546/1762122186/1500x500)]" alt="Privacy Cash 402 SDK" width="100%" />
+<img src="[[(https://pbs.twimg.com/profile_banners/1985065261121388546/1762122186/1500x500)]](https://media.discordapp.net/attachments/1295067928240062494/1434705902736248843/IMG_6729.png?ex=69094d7e&is=6907fbfe&hm=da5856c585d8383fd4061be1ad7741f863026f1de3d3061a70318cdce7ff145a&=&format=webp&quality=lossless&width=1982&height=638)" alt="Privacy Cash 402 SDK" width="100%" />
 
 # Privacy Cash 402 SDK
 
