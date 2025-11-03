@@ -357,30 +357,6 @@ const processor = new PrivacyPaymentProcessor({
 });
 ```
 
-## Performance Metrics
-
-```mermaid
-gantt
-    title Privacy Payment Timeline
-    dateFormat SSS
-    axisFormat %Ss
-    
-    section Operations
-    Deposit           :000, 15s
-    Privacy Wait      :015, 3s
-    Proof Generation  :018, 20s
-    Withdrawal        :038, 10s
-    Confirmation      :048, 5s
-```
-
-| Operation | Average Time | Notes |
-|-----------|--------------|-------|
-| Deposit | 15s | Network confirmation |
-| Privacy Wait | 3s | Privacy set growth |
-| Proof Generation | 20s | ZK proof computation |
-| Withdrawal | 10s | Network confirmation |
-| **Total** | **48s** | Full privacy payment |
-
 ## Contributing
 
 Contributions welcome. Submit issues and pull requests on GitHub.
