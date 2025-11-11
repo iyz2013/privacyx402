@@ -22,7 +22,6 @@
 
 Break on-chain links between payers and recipients using Privacy Cash protocol.
 
-4jxP8YuDrTCsbHQKwhSw2VDnG6Q1d6bm4bjDAsmJW4o2
 
 ---
 ## Privacy Flow
