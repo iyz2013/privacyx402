@@ -4,6 +4,8 @@
 
 ### Zero-Knowledge Privacy for 402 Payments on Solana
 
+### privacyx402.com
+
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/toursoflife/privacy402)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 [![Solana](https://img.shields.io/badge/solana-mainnet-purple.svg)](https://solana.com)
